@@ -3,10 +3,10 @@
   <remote name="origin" fetch="https://github.com/" />
   <default revision="master" remote="origin" />
 
-  <project path="lib/dotfiles"
-           name="sammtcbn/dotfiles.git" remote="origin" />
+  <project path="lib/sccu"
+           name="sammtcbn/sccu.git" remote="origin" />
 
-  <project path="lib/advutil"
-           name="sammtcbn/advutil.git" remote="origin" />
+  <project path="sammtcbn/libreadini"
+           name="sammtcbn/libreadini.git" remote="origin" />
 
 </manifest>
